@@ -8,3 +8,5 @@ The transmitter part comprises  of Raspberry  Pi and camera. The receiver part u
 Set up OpenCV in Rpi. Use this link for this if needed -https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
 Refer this link for setting up nrf24l01 communication and for adding nrf lobrary files - http://thezanshow.com/electronics-tutorials/raspberry-pi/tutorial-34-35
+
+Cascade  file is also given
